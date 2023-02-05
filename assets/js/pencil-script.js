@@ -190,7 +190,7 @@ $('.skills-list').appear(function() {
 	});
 	$('#demoprogressbar6').LineProgressbar({
 		percentage: 80,
-		fillBackgroundColor: '#ffdf00',
+		fillBackgroundColor: '#f7f7f7',
 		backgroundColor: '#202c3d',
 		height: '10px',
 		radius: '6px',
